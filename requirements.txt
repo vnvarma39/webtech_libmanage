@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+streamlit
+pdfminer.six
+python-docx
+rouge-score

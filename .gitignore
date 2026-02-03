@@ -1,0 +1,7 @@
+__pycache__/
+models/
+results_dgx/
+*.pt
+*.bin
+.env
+tempfile
